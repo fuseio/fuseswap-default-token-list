@@ -1,0 +1,43 @@
+{
+  "name": "@fuseswap/default-token-list",
+  "version": "1.0.0",
+  "description": "◦ The Fuseswap default token list",
+  "main": "build/fuseswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/fuseswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/fuseswap-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuseio/default-token-list.git"
+  },
+  "keywords": [
+    "fuse",
+    "fuseswap",
+    "uniswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "fuseio",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fuseio/default-token-list/issues"
+  },
+  "homepage": "https://github.com/fuseio/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "graphql": "^15.3.0",
+    "graphql-request": "^3.1.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2",
+    "web3-utils": "^1.3.0"
+  }
+}
