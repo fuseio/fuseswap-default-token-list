@@ -1,6 +1,6 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2020-11-11T09:52:59.991Z",
+  "timestamp": "2020-11-19T14:51:25.474Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -21,6 +21,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "GoodDollar",
+      "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+      "symbol": "G$",
+      "decimals": 2,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png"
     },
     {
       "name": "USD Coin on Fuse",
