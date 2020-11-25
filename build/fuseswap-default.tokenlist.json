@@ -1,6 +1,6 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2020-11-20T15:07:46.043Z",
+  "timestamp": "2020-11-25T19:02:09.522Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -61,6 +61,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped Fuse",
+      "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+      "symbol": "WFUSE",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
     }
   ]
 }

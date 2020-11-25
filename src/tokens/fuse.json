@@ -46,5 +46,13 @@
     "decimals": 6,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Wrapped Fuse",
+    "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+    "symbol": "WFUSE",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
   }
 ]
