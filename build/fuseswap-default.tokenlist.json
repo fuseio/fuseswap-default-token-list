@@ -1,6 +1,6 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2020-11-26T19:39:10.887Z",
+  "timestamp": "2020-12-08T00:46:33.204Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -68,7 +68,7 @@
       "symbol": "WFUSE",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
     }
   ]
 }
