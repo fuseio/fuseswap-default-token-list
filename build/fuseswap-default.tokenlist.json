@@ -1,10 +1,10 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2020-12-08T08:50:39.847Z",
+  "timestamp": "2021-02-11T11:04:16.639Z",
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 1
+    "minor": 2,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
@@ -29,6 +29,14 @@
       "decimals": 2,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png"
+    },
+    {
+      "name": "Kyber Network Crystal on Fuse",
+      "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+      "symbol": "KNC",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
     },
     {
       "name": "USD Coin on Fuse",

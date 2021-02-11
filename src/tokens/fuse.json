@@ -48,6 +48,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
+    "name": "Kyber Network Crystal on Fuse",
+    "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+    "symbol": "KNC",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+  },
+  {
     "name": "Wrapped Fuse",
     "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
     "symbol": "WFUSE",
