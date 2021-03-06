@@ -1,9 +1,9 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-02-11T11:04:16.639Z",
+  "timestamp": "2021-03-06T10:36:25.552Z",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -37,6 +37,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+    },
+    {
+      "name": "MANTRA DAO on Fuse",
+      "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
+      "symbol": "OM",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
     },
     {
       "name": "USD Coin on Fuse",

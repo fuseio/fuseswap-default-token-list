@@ -62,5 +62,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
+  },
+  {
+    "name": "MANTRA DAO on Fuse",
+    "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
+    "symbol": "OM",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
   }
 ]
