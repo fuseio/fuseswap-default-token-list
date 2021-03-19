@@ -1,9 +1,9 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-03-06T10:36:25.552Z",
+  "timestamp": "2021-03-19T17:10:28.274Z",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -31,12 +31,28 @@
       "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png"
     },
     {
+      "name": "Graph Token on Fuse",
+      "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
+      "symbol": "GRT",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+    },
+    {
       "name": "Kyber Network Crystal on Fuse",
       "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
       "symbol": "KNC",
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+    },
+    {
+      "name": "ChainLink Token on Fuse",
+      "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
       "name": "MANTRA DAO on Fuse",
