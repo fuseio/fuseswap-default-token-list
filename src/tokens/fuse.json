@@ -70,5 +70,21 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
+  },
+  {
+    "name": "ChainLink Token on Fuse",
+    "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "name": "Graph Token on Fuse",
+    "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
+    "symbol": "GRT",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
   }
 ]
