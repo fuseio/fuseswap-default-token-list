@@ -1,10 +1,10 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-03-21T11:10:33.477Z",
+  "timestamp": "2021-03-21T11:39:02.092Z",
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
@@ -28,7 +28,7 @@
       "symbol": "fUSD",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-dollar.png"
     },
     {
       "name": "GoodDollar",
