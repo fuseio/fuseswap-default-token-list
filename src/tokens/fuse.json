@@ -86,5 +86,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+  },
+  {
+    "name": "Fuse Dollar",
+    "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
+    "symbol": "fUSD",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-dollar.png"
   }
 ]
