@@ -51,6 +51,11 @@
     "@ethersproject/bytes" "^5.0.4"
     "@ethersproject/logger" "^5.0.5"
 
+"@fuseio/token-lists@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@fuseio/token-lists/-/token-lists-1.1.0.tgz#df4e196aff2cfbeb413559673039916d07c1ad49"
+  integrity sha512-yLZIHk5Drc/UVqKtkmMC/lzK0E5001zQ1+sefCIPPHj+pgFD/MIuCjvHUsjAWtDChujogc4FE7MPHiN9Gv15qg==
+
 "@ungap/promise-all-settled@1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@ungap/promise-all-settled/-/promise-all-settled-1.1.2.tgz#aa58042711d6e3275dd37dc597e5d31e8c290a44"

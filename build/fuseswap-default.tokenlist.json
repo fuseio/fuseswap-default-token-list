@@ -1,6 +1,6 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-03-21T11:39:02.092Z",
+  "timestamp": "2021-03-31T16:32:33.695Z",
   "version": {
     "major": 1,
     "minor": 5,
@@ -96,11 +96,20 @@
     },
     {
       "name": "Wrapped Ether on Fuse",
-      "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+      "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped Ether on Fuse",
+      "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+      "symbol": "WETH (Deprecated)",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "isDeprecated": true
     },
     {
       "name": "Wrapped Fuse",
