@@ -1,10 +1,10 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-03-31T16:35:40.904Z",
+  "timestamp": "2021-05-03T11:44:38.281Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
@@ -117,7 +117,7 @@
       "symbol": "WFUSE",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/wfuse.svg"
     }
   ]
 }
