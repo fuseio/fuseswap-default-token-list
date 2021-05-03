@@ -1,10 +1,10 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-05-03T11:44:38.281Z",
+  "timestamp": "2021-05-03T13:48:26.594Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
@@ -117,7 +117,7 @@
       "symbol": "WFUSE",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/wfuse.svg"
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/wfuse.png"
     }
   ]
 }

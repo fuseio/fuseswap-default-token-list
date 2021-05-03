@@ -70,7 +70,7 @@
     "symbol": "WFUSE",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/wfuse.svg"
+    "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/wfuse.png"
   },
   {
     "name": "MANTRA DAO on Fuse",
