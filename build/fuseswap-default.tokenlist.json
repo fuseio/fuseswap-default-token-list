@@ -1,8 +1,8 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-06-21T16:28:12.553Z",
+  "timestamp": "2021-07-03T19:11:26.093Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 8,
     "patch": 0
   },
@@ -29,14 +29,6 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
-      "name": "DEXTools on Fuse",
-      "address": "0x92c9DD8F3C443d75949A1B46F2878cacc1089de5",
-      "symbol": "DEXT",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26CE25148832C04f3d7F26F32478a9fe55197166/logo.png"
     },
     {
       "name": "Fuse Dollar",
