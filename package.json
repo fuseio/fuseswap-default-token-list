@@ -1,6 +1,6 @@
 {
   "name": "@fuseswap/default-token-list",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "description": "◦ The Fuseswap default token list",
   "main": "build/fuseswap-default.tokenlist.json",
   "scripts": {

@@ -119,5 +119,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26CE25148832C04f3d7F26F32478a9fe55197166/logo.png"
+  },
+  {
+    "name": "Binance USD on Fuse",
+    "address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
   }
 ]
