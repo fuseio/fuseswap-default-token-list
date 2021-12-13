@@ -127,5 +127,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+  },
+  {
+    "name": "SushiToken on Fuse",
+    "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
   }
 ]
