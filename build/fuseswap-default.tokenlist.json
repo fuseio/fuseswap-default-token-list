@@ -1,9 +1,9 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2021-11-07T23:13:51.906Z",
+  "timestamp": "2021-12-13T12:39:31.467Z",
   "version": {
     "major": 2,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "tags": {},
@@ -93,6 +93,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
+    },
+    {
+      "name": "SushiToken on Fuse",
+      "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
     },
     {
       "name": "USD Coin on Fuse",
