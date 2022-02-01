@@ -159,5 +159,21 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png"
+  },
+  {
+    "name": "Luna Terra",
+    "address": "0x588e24DEd8f850b14BB2e62E9c50A7Cd5Ee13Da9",
+    "symbol": "atLUNA",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/luna.png"
+  },
+  {
+    "name": "UST Terra",
+    "address": "0x0D58a44be3dCA0aB449965dcc2c46932547Fea2f",
+    "symbol": "atUST",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/ust.png"
   }
 ]

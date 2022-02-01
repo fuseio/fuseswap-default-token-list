@@ -1,9 +1,9 @@
 {
   "name": "FuseSwap Token List",
-  "timestamp": "2022-01-17T14:19:15.076Z",
+  "timestamp": "2022-02-01T12:16:25.131Z",
   "version": {
     "major": 2,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   },
   "tags": {},
@@ -14,6 +14,22 @@
     "default"
   ],
   "tokens": [
+    {
+      "name": "Luna Terra",
+      "address": "0x588e24DEd8f850b14BB2e62E9c50A7Cd5Ee13Da9",
+      "symbol": "atLUNA",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/luna.png"
+    },
+    {
+      "name": "UST Terra",
+      "address": "0x0D58a44be3dCA0aB449965dcc2c46932547Fea2f",
+      "symbol": "atUST",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/ust.png"
+    },
     {
       "name": "beefy.finance",
       "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
