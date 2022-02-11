@@ -175,5 +175,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/ust.png"
+  },
+  {
+    "name": "Dogelon on Fuse",
+    "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+    "symbol": "ELON",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png"
   }
 ]
